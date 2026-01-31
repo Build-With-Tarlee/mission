@@ -74,14 +74,6 @@ What you’re seeing is not polish — it’s momentum.
 
 ---
 
-## Community Standards
-
-All work showcased here follows the Build With Tarlee standards for collaboration, integrity, and respect.
-
-👉 **[View the Community Code of Conduct](code-of-conduct.md)**
-
----
-
 ## Final Thought
 
 This is what learning looks like when it’s taken seriously.
